@@ -1,4 +1,4 @@
-# @intechnity/react-native-kanban-board
+# @jeet-dhandha-lio/react-native-kanban
 
 A kanban board for React Native.
 
@@ -7,7 +7,7 @@ A kanban board for React Native.
 ## Installation
 
 ```sh
-npm install @intechnity/react-native-kanban-board
+npm install @jeet-dhandha-lio/react-native-kanban
 ```
 
 react-native-gesture-handler must be also installed: https://www.npmjs.com/package/react-native-gesture-handler
@@ -17,7 +17,7 @@ react-native-gesture-handler must be also installed: https://www.npmjs.com/packa
 Import the necessary components and types:
 
 ```tsx
-import { KanbanBoard, ColumnModel, CardModel } from '@intechnity/react-native-kanban-board';
+import { KanbanBoard, ColumnModel, CardModel } from '@jeet-dhandha-lio/react-native-kanban';
 ```
 
 Define the columns and cards:

@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@intechnity/react-native-kanban-board": ["./src/index"]
+      "@jeet-dhandha-lio/react-native-kanban": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

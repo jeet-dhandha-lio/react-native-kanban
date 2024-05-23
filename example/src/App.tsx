@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { View, Text, Alert, StyleSheet, StatusBar, Button } from 'react-native';
-import { KanbanBoard, ColumnModel, CardModel } from '@intechnity/react-native-kanban-board';
+import { KanbanBoard, ColumnModel, CardModel } from '@jeet-dhandha-lio/react-native-kanban';
 
 type AppState = {
   columns: ColumnModel[];
